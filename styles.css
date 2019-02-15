@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: orchid;
+  font-family: courier;
+  font-size: 300%;
+  text-align: center;
+}
+p {
+  color: azure;
+  font-family: calibri;
+  font-size: 120%;
+} 
+a:link {
+  color: aquamarine; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+
+a:visited {
+  color: fuchsia;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  color: white;
+  background-color: black;
+  text-align: left;
+}
